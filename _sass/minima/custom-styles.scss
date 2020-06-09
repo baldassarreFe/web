@@ -6,6 +6,15 @@
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+// Center social icons made with FontAwesome or AcademicIcons
+.social-media-list{
+  .fab.svg-icon {
+    text-align: center;
+  }
+  .ai.svg-icon {
+    text-align: center;
+  }
+}
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
