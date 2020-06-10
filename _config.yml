@@ -50,13 +50,13 @@ minima:
     
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to display tags on each post
 show_tags: true
@@ -123,3 +123,37 @@ kramdown:
 # Custom stuff
 author:
   name: "Federico Baldassarre"
+#   avatar           : "profile.png"
+#   bio              : "Your biography for the left-hand sidebar"
+#   location         : "Stockholm"
+#   employer         :
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+#   email            :
+#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : "baldassarreFe"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+#   linkedin         :
+#   orcid            : 0000-0001-8152-767X
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : https://stackoverflow.com/users/3526592/baldassarrefe
+#   steam            :
+#   tumblr           :
+#   twitter          : "baldassarreFe"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
