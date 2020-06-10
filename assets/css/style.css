@@ -432,6 +432,14 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+.social-media-list .fab.svg-icon, .pagination .fab.svg-icon { text-align: center; }
+
+.social-media-list .ai.svg-icon, .pagination .ai.svg-icon { text-align: center; }
+
+.profile-pic { margin: 8%; width: calc(100% - 16%); border-radius: 5px; border: 1px solid black; }
+
+@media screen and (min-width: 600px) { .profile-pic { margin: 5px; float: right; width: 30%; } }
+
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
