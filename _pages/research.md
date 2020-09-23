@@ -21,14 +21,35 @@ permalink: /research/
       </div> -->
       <div class="col-8 d-table-cell p-3">
           <h3>
-            <a class="post-link" href="https://openreview.net/forum?id=HyxgBerKwB">
+            <a class="post-link" href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6336_ECCV_2020_paper.php">
+              Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks
+            </a>
+          </h3>
+          <p class="post-meta-description">
+            <em>Federico Baldassarre, Kevin Smith, Josephine Sullivan, Hossein Azizpour</em><br/>
+            A novel weakly-supervised method for visual relationship detection that relies on minimal image-level predicate labels, graph networks, and attribution-based explanations.<br/>
+            Conference paper at ECCV 2020
+          </p>
+          <!-- <p class="post-meta">{{ "2019-05-31" | date: date_format }}</p> -->
+        </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="Box box-shadow-medium rounded-1 col-12">
+      <!-- <div class="col-4 d-table-cell p-3 v-align-middle">
+        <img class="image-preview " src="{{ post.image | relative_url }}" />
+      </div> -->
+      <div class="col-8 d-table-cell p-3">
+          <h3>
+            <a class="post-link" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa714/5891171">
               GraphQA: Protein Model Quality Assessment using Graph Convolutional Network
             </a>
           </h3>
           <p class="post-meta-description">
             <em>Federico Baldassarre, David Menéndez Hurtado, Arne Elofsson, Hossein Azizpour</em><br/>
             Representing protein structure as 3D graphs to automatically assess the quality of folded models.<br/>
-            (Current work)
+            Bioinformatics Journal (Oxford University Press)
           </p>
           <!-- <p class="post-meta">{{ "2019-05-31" | date: date_format }}</p> -->
         </div>
