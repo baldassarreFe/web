@@ -27,10 +27,10 @@ permalink: /research/
           </h3>
           <p class="post-meta-description">
             <em>Federico Baldassarre, David Menéndez Hurtado, Arne Elofsson, Hossein Azizpour</em><br/>
-            Representing protein structure as 3D graphs to automatically assess the quality of folded models.<br/>
-            (Current work)
+            A novel method for protein quality assessment based on a graphical representation of tertiary structures and graph convolutional networks.<br/>
+            Bioinformatics Journal (Oxford University Press), August 2020
           </p>
-          <!-- <p class="post-meta">{{ "2019-05-31" | date: date_format }}</p> -->
+          <p class="post-meta">{{ "2020-08-01" | date: "%B %Y" }}</p>
         </div>
     </div>
   </li>
